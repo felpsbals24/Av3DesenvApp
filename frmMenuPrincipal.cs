@@ -19,25 +19,25 @@ namespace Av3DesenvApp
 
         private void btnFornecedores_Click(object sender, EventArgs e)
         {
-            // Criamos a janela de fornecedores
+             
             frmFornecedores telaFornecedores = new frmFornecedores();
 
-            // Abre a tela de forma que o usuário tenha que fechar ela antes de voltar para o menu
+             
             telaFornecedores.ShowDialog();
         }
 
         private void btnProdutos_Click(object sender, EventArgs e)
         {
-            // Criamos a janela de produtos
+             
             frmProdutos telaProdutos = new frmProdutos();
 
-            // Abre a janela de produtos
+             
             telaProdutos.ShowDialog();
         }
 
         private void Sair_Click(object sender, EventArgs e)
         {
-            // Fecha completamente a aplicação de forma segura
+            
             Application.Exit();
         }
     }

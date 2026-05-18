@@ -9,23 +9,23 @@ using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using MySql.Data.MySqlClient; // Ferramenta essencial para o MySQL
+using MySql.Data.MySqlClient;  
 
 namespace Av3DesenvApp
 {
     public partial class Form1 : Form
     {
-        // 1. Variáveis da conexão (Ajustadas e com o MySqlConnection correto)
-        private string strConexao = "Server=localhost;Database=gerenciamento;Uid=root;Pwd=1234;";
+         
+        private string strConexao = "Server=localhost;Database=gerenciadorqkz;Uid=root;Pwd=1234;";
         private MySqlConnection conexao;
 
-        // 2. Método que é rodado assim que a tela é criada
+        
         public Form1()
         {
             InitializeComponent();
         }
 
-        // 3. Método responsável por abrir a porta com o Banco de Dados
+         
         public MySqlConnection Conectar()
         {
             try
@@ -41,7 +41,7 @@ namespace Av3DesenvApp
             }
         }
 
-        // 4. Método responsável por fechar a porta com o Banco de Dados
+        
         public void Desconectar()
         {
             if (conexao != null && conexao.State == ConnectionState.Open)
@@ -50,7 +50,7 @@ namespace Av3DesenvApp
             }
         }
 
-        // 5. Espaço reservado para o botão da tela
+         
         
             
         }

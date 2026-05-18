@@ -41,3 +41,12 @@ E:\Visual Studio PROJECTS\Av3DesenvApp\obj\Debug\Av3Desen.1AC40CB0.Up2Date
 E:\Visual Studio PROJECTS\Av3DesenvApp\obj\Debug\Av3DesenvApp.exe
 E:\Visual Studio PROJECTS\Av3DesenvApp\obj\Debug\Av3DesenvApp.pdb
 E:\Visual Studio PROJECTS\Av3DesenvApp\obj\Debug\Av3DesenvApp.fmrLogin.resources
+C:\Unity\Av3DesenvApp\obj\Debug\Av3DesenvApp.csproj.AssemblyReference.cache
+C:\Unity\Av3DesenvApp\obj\Debug\Av3DesenvApp.fmrLogin.resources
+C:\Unity\Av3DesenvApp\obj\Debug\Av3DesenvApp.Form1.resources
+C:\Unity\Av3DesenvApp\obj\Debug\Av3DesenvApp.frmMenuPrincipal.resources
+C:\Unity\Av3DesenvApp\obj\Debug\Av3DesenvApp.Properties.Resources.resources
+C:\Unity\Av3DesenvApp\obj\Debug\Av3DesenvApp.csproj.GenerateResource.cache
+C:\Unity\Av3DesenvApp\obj\Debug\Av3DesenvApp.csproj.CoreCompileInputs.cache
+C:\Unity\Av3DesenvApp\obj\Debug\Av3DesenvApp.exe
+C:\Unity\Av3DesenvApp\obj\Debug\Av3DesenvApp.pdb
