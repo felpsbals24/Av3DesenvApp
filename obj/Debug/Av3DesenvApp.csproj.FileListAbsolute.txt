@@ -40,3 +40,4 @@ E:\Visual Studio PROJECTS\Av3DesenvApp\obj\Debug\Av3DesenvApp.csproj.CoreCompile
 E:\Visual Studio PROJECTS\Av3DesenvApp\obj\Debug\Av3Desen.1AC40CB0.Up2Date
 E:\Visual Studio PROJECTS\Av3DesenvApp\obj\Debug\Av3DesenvApp.exe
 E:\Visual Studio PROJECTS\Av3DesenvApp\obj\Debug\Av3DesenvApp.pdb
+E:\Visual Studio PROJECTS\Av3DesenvApp\obj\Debug\Av3DesenvApp.fmrLogin.resources
